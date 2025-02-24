@@ -7,8 +7,6 @@ class BuscarLista() {
     case x :: xs => if (x == elemento) true else buscarElemento(xs, elemento)
 
 
-
-
    }
   }
 }
